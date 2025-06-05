@@ -128,7 +128,3 @@
     font-family: Apple Symbols;
     src: url("Apple-Symbols.ttf") format("truetype");
 }
-@font-face {
-    font-family: SF Pro;
-    src: url("SF-Pro.ttf") format("truetype");
-}
